@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="on-off-slider-buttons.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.7852694"
+     inkscape:cx="252.0628"
+     inkscape:cy="290.15229"
+     inkscape:window-width="1350"
+     inkscape:window-height="1205"
+     inkscape:window-x="2299"
+     inkscape:window-y="452"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g963">
+      <rect
+         style="fill:#4646ff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.236776"
+         id="rect240"
+         width="28.010477"
+         height="11.55988"
+         x="49.796406"
+         y="33.494015"
+         ry="5.7799401" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-dasharray:none"
+         id="path400"
+         cx="71.878746"
+         cy="39.273952"
+         r="4.7425146" />
+    </g>
+    <g
+       id="g967">
+      <rect
+         style="fill:#9f9f9f;fill-opacity:1;fill-rule:evenodd;stroke-width:0.236776"
+         id="rect957"
+         width="28.010477"
+         height="11.55988"
+         x="49.796406"
+         y="54.39072"
+         ry="5.7799401" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-dasharray:none"
+         id="circle959"
+         cx="55.576347"
+         cy="60.170658"
+         r="4.7425146" />
+    </g>
+  </g>
+</svg>
