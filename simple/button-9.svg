@@ -26,12 +26,12 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.4204826"
-     inkscape:cx="-73.72481"
+     inkscape:cx="-249.71307"
      inkscape:cy="281.81903"
      inkscape:window-width="1492"
      inkscape:window-height="1042"
      inkscape:window-x="330"
-     inkscape:window-y="13"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -64,16 +64,6 @@
          offset="1"
          id="stop924" />
     </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient926"
-       id="radialGradient928"
-       cx="88.519066"
-       cy="79.395126"
-       fx="88.519066"
-       fy="79.395126"
-       r="30"
-       gradientUnits="userSpaceOnUse" />
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
@@ -96,22 +86,26 @@
        x2="88.519066"
        y2="66.384529"
        gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient926"
+       id="radialGradient306"
+       gradientUnits="userSpaceOnUse"
+       cx="88.519066"
+       cy="79.395126"
+       fx="88.519066"
+       fy="79.395126"
+       r="30" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g13108">
+       id="g344">
       <circle
-         style="fill:url(#radialGradient928);stroke-width:1.89444;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;fill-opacity:1"
+         style="fill:url(#radialGradient306);fill-opacity:1;stroke-width:1.89444;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="path184"
-         cx="88.519066"
-         cy="69.956566"
-         r="30" />
-      <circle
-         style="fill:url(#radialGradient928);stroke-width:1.89444;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;fill-opacity:1"
-         id="circle5469"
          cx="88.519066"
          cy="69.956566"
          r="30" />
@@ -131,7 +125,7 @@
          rx="19.191736"
          ry="12.820709" />
       <ellipse
-         style="fill:#fffec0;fill-opacity:0.51829267;stroke-width:2.5676;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="fill:#fffec0;fill-opacity:0.518293;stroke-width:2.5676;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="path6867"
          cx="109.79839"
          cy="-18.95632"
@@ -139,7 +133,7 @@
          ry="3.4828677"
          transform="matrix(0.81045473,0.58580127,-0.62434409,0.78114944,0,0)" />
       <ellipse
-         style="fill:#fffec0;fill-opacity:0.45731708;stroke-width:1.48927;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="fill:#fffec0;fill-opacity:0.457317;stroke-width:1.48927;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="ellipse10195"
          cx="100.77843"
          cy="-8.3202229"
