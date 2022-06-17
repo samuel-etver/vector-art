@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="button-13(plus).svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.3638608"
+     inkscape:cx="153.54381"
+     inkscape:cy="98.250201"
+     inkscape:window-width="1920"
+     inkscape:window-height="1058"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2566"
+       x="-0.047810462"
+       y="-0.047810462"
+       width="1.0956209"
+       height="1.0956209">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.740153"
+         id="feGaussianBlur2568" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter2530"
+       x="-0.065382514"
+       y="-0.065382514"
+       width="1.1511971"
+       height="1.1511971">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(85,131,73)"
+         result="flood"
+         id="feFlood2520" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite2522" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur2524" />
+      <feOffset
+         dx="0.3"
+         dy="0.3"
+         result="offset"
+         id="feOffset2526" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite2528" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g311">
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke-width:0.341376;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;filter:url(#filter2566)"
+         id="circle2564"
+         cx="104.18785"
+         cy="91.284653"
+         r="43.676289"
+         transform="matrix(0.29187549,0,0,0.29187549,10.003562,-4.4820264)" />
+      <circle
+         style="fill:#35cf8c;fill-opacity:1;stroke-width:0.0996388;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="path188"
+         cx="40.413441"
+         cy="22.161724"
+         r="12.748038" />
+      <circle
+         style="fill:#2a9b69;fill-opacity:1;stroke-width:0.0828916;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="circle294"
+         cx="40.413441"
+         cy="22.161724"
+         r="10.605242" />
+      <path
+         id="rect364"
+         style="fill:#ffffff;stroke-width:0.33983;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;filter:url(#filter2530)"
+         d="M 38.917521 14.820284 L 38.917521 20.966162 L 33.071883 20.966162 L 33.071883 23.357747 L 38.917521 23.357747 L 38.917521 29.503109 L 41.309106 29.503109 L 41.309106 23.357747 L 47.754708 23.357747 L 47.754708 20.966162 L 41.309106 20.966162 L 41.309106 14.820284 L 38.917521 14.820284 z " />
+    </g>
+  </g>
+</svg>
