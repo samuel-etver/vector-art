@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   xml:space="preserve"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="bitcoin-sign.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.2623761"
+     inkscape:cx="-181.40395"
+     inkscape:cy="449.153"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs2" /><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"><path
+       id="rect2366"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.145104"
+       d="M 24.012848,6.6022107 V 16.655697 L 11.493,16.788431 11.4875,23.385859 c 0,0 3.000838,-0.0035 4.45018,-0.01632 2.792808,-0.02471 3.555578,1.899957 3.608703,2.813959 0.06191,1.065219 0.03108,26.528464 -0.0033,27.4408 -0.06022,1.598354 -0.910035,2.312916 -2.131209,2.359343 -1.548002,0.05885 -4.690483,-0.03623 -4.690483,-0.03623 l -1.237191,7.398811 12.528697,0.07964 v 10.245393 h 6.168531 V 63.465136 l 4.990795,0.0318 V 73.67126 h 6.168531 v -10.2559 c 13.558488,-0.762359 18.566817,-5.357182 18.609797,-14.919842 0.03537,-6.334587 -3.381351,-9.461233 -8.947924,-10.862335 4.109757,-2.087255 5.615146,-5.648495 5.282806,-9.91771 -0.08854,-7.710378 -7.27271,-10.314386 -14.944728,-10.989261 V 6.6022107 h -6.168531 v 9.9348563 l -4.990795,0.05309 V 6.6022077 Z M 33.5943,23.592149 c 4.271946,-0.0065 11.114243,0.846145 11.160429,6.369291 0.06555,7.838319 -14.46661,6.321176 -14.46661,6.321176 l -0.04646,-12.507128 c 0,0 1.410842,-0.180388 3.352637,-0.183339 z m 0.350085,18.734837 c 5.905844,-0.03563 13.786553,0.775337 13.705049,6.586089 -0.114108,8.135836 -11.355742,7.065813 -17.35606,7.149933 v -13.62707 c 1.030428,-0.04732 2.288125,-0.10073 3.651011,-0.108952 z" /></g></svg>
